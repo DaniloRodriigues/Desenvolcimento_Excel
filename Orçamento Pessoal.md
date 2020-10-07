@@ -40,19 +40,19 @@
 
 - ## BASE
 ### Onde se é inseridos todas as movimentações de valores do usuário:
-![SCREENSHOT](/imagens/base.jpg)  
+![SCREENSHOT](/Imagens/BASE.jpg)  
 
 - ## REAL
 ### Acompanhamento de Receitas e Despesas:
-![SCREENSHOT](/imagens/analise_despesas.jpg)  
+![SCREENSHOT](/Imagens/Analise_Despesas.jpg)  
 
 - ### A PAGAR
 ### Acompanhamento das despesas futuras:
-![SCREENSHOT](/imagens/contas_pagar.jpg)  
+![SCREENSHOT](/Imagens/Contas_pagar.jpg)  
 
 - ### A RECEBER
 ### Acompanhamento das empresas/pessoas que te devem:
-![SCREENSHOT](/imagens/contas_receber.jpg) 
+![SCREENSHOT](/Imagens/Contas_receber.jpg) 
 
 - ### RELATÓRIOS
 ### Independência Financeira:
@@ -65,21 +65,21 @@
     - % Inflação
     - Idade do inicio do investimento
     - Meta Financeira (R$)
-![SCREENSHOT](/imagens/Independencia_financeira.jpg) 
+![SCREENSHOT](/Imagens/Independencia_financeira.jpg) 
 
 ### Analise de Despesas no Mês:
 #### Gráfico em barras que apresentam quais são os os grupo de contas / contas que mais impactaram o resultado do mês
 #### Gráfico de rosca que apresentam o percentual entre receitas e despesas no mês selecionado; mesmo conceito utilizado no gráfico de formas de pagamento
-![SCREENSHOT](/imagens/analise_mes.jpg) 
+![SCREENSHOT](/Imagens/Analise_mes.jpg) 
 
 ### Acompanhamento de Despesas no Ano:
 #### Gráfico de colunas, onde é possivel verificar a evolução de gastos durante o ano e separado por tipo de pagamento
 #### Gráfico de linhas, onde é possivel acompanhar além da receita e despesas, a evolução do resultado mês a mês
-![SCREENSHOT](/imagens/Acompanhamento_1.jpg) 
+![SCREENSHOT](/Imagens/Acompanhamento_1.jpg) 
 
 #### Gráfico de linhas de Grupo/Conta, sendo possivel selecionar quais as contas que precisam serm acompanhadas mais de perto, principamente para aquelas despesas descontroladas
-![SCREENSHOT](/imagens/Acompanhamento_2.jpg) 
+![SCREENSHOT](/Imagens/Acompanhamento_2.jpg) 
 
 ### Resumo:
 #### Local onde é inserido os valores dos patrimonios obtidos até o momento
-![SCREENSHOT](/imagens/resumo.jpg) 
+![SCREENSHOT](/Imagens/RESUMO.jpg) 
