@@ -3,5 +3,5 @@ Aqui você enctrontrará alguns dos mais importantes projetos que ja criei até 
 Espero que gostem e caso tenham alguma dúvida estarei a disposição.
 
 
-Atenciosamente  
-Danilo Rodrigues
+Atenciosamente,
+![SCREENSHOT](Ferramentas/Imagens/Danilo+Rodrigues.PNG)
