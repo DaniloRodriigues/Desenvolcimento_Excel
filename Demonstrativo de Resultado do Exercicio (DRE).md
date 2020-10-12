@@ -44,16 +44,21 @@
 ![SCREENSHOT](/Imagens/DRE_Estatisticas.png)  
 
 - ## RECEITA
-### Acompanhamento de Receitas e Despesas:
-![SCREENSHOT](/Imagens/Analise_Despesas.png)  
+### Receita gerado pelo setor produtivo, separado por grupo:
+![SCREENSHOT](/Imagens/DRE_Receita.png)  
 
 - ### DEDUÇÕES
-### Acompanhamento das despesas futuras:
-![SCREENSHOT](/Imagens/Contas_pagar.png)  
+![SCREENSHOT](/Imagens/DRE_Deduções.png)  
 
-- ### CUSTOS VARIAVEIS
-### Acompanhamento das empresas/pessoas que te devem:
-![SCREENSHOT](/Imagens/Contas_receber.png) 
+- ### CUSTOS VARIAVEIS / MARGEM DE CONTRIBUIÇÃO
+### Custos variáveis do setor selecionado, sendo que o custo tende acompanhar a receita:
+![SCREENSHOT](/Imagens/DRE_MC.png) 
 
-- ### EBTIDA
-### Independência Financeira:
+- ### CUSTOS FIXOS / EBITDA
+![SCREENSHOT](/Imagens/DRE_EBITDA.png) 
+
+- ### EBITDA / Resultado Liquido
+![SCREENSHOT](/Imagens/DRE_Resultado_Liquido.png) 
+
+- ### DRE COMPLETO
+![SCREENSHOT](/Imagens/DRE_Completo.png) 
