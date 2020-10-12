@@ -29,7 +29,7 @@
 ## 4. Estrutura da Planilha
 ### A planilha é constituida pelas seguinte abas:  
 
-|ABAS|DESCRIÇÃO|
+|ABAS|
 |--- | -------|
 |DRE UTI / UNIDADE DE INTERNAÇÃO | 
 |DRE CENTRO CIRURGICO | 
