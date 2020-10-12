@@ -30,11 +30,11 @@
 ### A planilha é constituida pelas seguinte abas:  
 
 |ABAS|
-|--- | -------|
+|--- | 
 |DRE UTI / UNIDADE DE INTERNAÇÃO | 
 |DRE CENTRO CIRURGICO | 
 |DRE AMBULATORIO / SADT| 
-| |
+| 
 
 <a id="link5"></a>
 ## 5. Apresentação da Estrutura
