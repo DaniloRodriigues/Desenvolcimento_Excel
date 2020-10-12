@@ -5,7 +5,7 @@
 
 - ### [1. Objetivo](#Link1)
 - ### [2. De onde vem os dados?](#Link2)
-- ### [3. É necessario conhecimento em Excel?](#Link3)
+- ### [3. Quais são os principais Indicadores?](#Link3)
 - ### [4. Estrutura da Planilha](#Link4)
 - ### [5. Apresentação da Estrutura](#Link5)
 
@@ -13,15 +13,17 @@
   
 <a id="link1"></a>
 ## 1. Objetivo 
-### Realizar controle de receita e despesas, com objetivo de identificar onde é possivel diminuir despesas e aumentar receita.
+### O objetivo da demonstração de resultado do exercicio (DRE) é o acompanhamento da apuração de resultado da empresa, assim como analise de Realizado x Orçado. Sendo possivel identificar qual a conta de maior impacto, através das analises verticais e horizontais.
 
 <a id="link2"></a>
 ## 2. De onde vem os dados?
-### Os dados são inseridos manualmente pelo o usuário, onde é necessario que o mesmo consulte todos os locais que se possui valores, como por exemplo: Bancos, Corretoras, Cofre, dentro outros...
+### Os dados são de origem contabil e de custos, sendo utilizado os relatórios do balancete e absorção.
 
 <a id="link3"></a>
-## 3. É necessario conhecimento em Excel?
-### Para o preenchimento deste planilha basta o conhecimento básico na ferramenta de Excel, pois a mesma ja foi desenvolvida para que o usuário não tenha dificuldades para o preenchimento.
+## 3. Quais são os principais Indicadores?
+### Os principais indicadores são:
+- **% Margem de Contribuição (MC):**  *É o resultado do seguinte calculo R$ Receita liquida - R$ Custos Variáveis = R$ Margem de Contruição (Resultado absoluto da MC / [Receita bruta ou  Receita Liquida] = %  MC), ou seja, quanto que sobra para que cobrir os custos fixos da empresa.*
+- **EBITDA:** *Esse indicadore é mais conhecido como Resultado Operacional, ou seja, é o lucro ou prejuízo que a empresa obteve com a sua operação.*
 
 <a id="link4"></a>
 ## 4. Estrutura da Planilha
@@ -29,59 +31,29 @@
 
 |ABAS|DESCRIÇÃO|
 |--- | -------|
-|Base | Local onde se é lançado todos os registro de Receita e Despesas que a pessoa teve ao longo do tempo|
-|Real | Tabela Dinâmica organizada por grupo, conta e mês, onde é possivel verificar o resultado que a pessoa obteve, além de consegui idenficar a evolução das despesas e Receitas
-|A Pagar | Possivel verificar qual o valor das despesas futuras, assim conseguindo se planejar para pagá-las
-|A Receber | Valores que Empresas/Pessoas que te devem
-|Relatórios | Dashboards com o objetivo de conseguir identificar onde esta a sua maior fonte de renda e a maior grupo/contas
-|Resumo | Locais onde ficam armazenados os seu patrimonio
+|DRE UTI / UNIDADE DE INTERNAÇÃO | 
+|DRE CENTRO CIRURGICO | 
+|DRE AMBULATORIO / SADT| 
 | |
 
 <a id="link5"></a>
 ## 5. Apresentação da Estrutura
 
-- ## BASE
-### Onde se é inseridos todas as movimentações de valores do usuário:
-![SCREENSHOT](/Imagens/BASE.png)  
+- ## ESTATISTICAS
+### Onde é possivel visualizar a estatistica da Unidade de Negocio selecionada, como por exempo, nº de colaboradores, Pac/Dia, Exames, % Ocupação, dentro outros:
+![SCREENSHOT](/Imagens/DRE_Estatisticas.png)  
 
-- ## REAL
+- ## RECEITA
 ### Acompanhamento de Receitas e Despesas:
 ![SCREENSHOT](/Imagens/Analise_Despesas.png)  
 
-- ### A PAGAR
+- ### DEDUÇÕES
 ### Acompanhamento das despesas futuras:
 ![SCREENSHOT](/Imagens/Contas_pagar.png)  
 
-- ### A RECEBER
+- ### CUSTOS VARIAVEIS
 ### Acompanhamento das empresas/pessoas que te devem:
 ![SCREENSHOT](/Imagens/Contas_receber.png) 
 
-- ### RELATÓRIOS
+- ### EBTIDA
 ### Independência Financeira:
-#### Compos que necessitam ser preenchidos para realização dos cálculos
-    - Data de Inicio
-    - Capital incial
-    - Aporte Mensal
-    - Meta
-    - % Rendimento Anual
-    - % Inflação
-    - Idade do inicio do investimento
-    - Meta Financeira (R$)
-![SCREENSHOT](/Imagens/Independencia_financeira.png) 
-
-### Analise de Despesas no Mês:
-#### Gráfico em barras que apresentam quais são os os grupo de contas / contas que mais impactaram o resultado do mês
-#### Gráfico de rosca que apresentam o percentual entre receitas e despesas no mês selecionado; mesmo conceito utilizado no gráfico de formas de pagamento
-![SCREENSHOT](/Imagens/Analise_mes.png) 
-
-### Acompanhamento de Despesas no Ano:
-#### Gráfico de colunas, onde é possivel verificar a evolução de gastos durante o ano e separado por tipo de pagamento
-#### Gráfico de linhas, onde é possivel acompanhar além da receita e despesas, a evolução do resultado mês a mês
-![SCREENSHOT](/Imagens/Acompanhamento_1.png) 
-
-#### Gráfico de linhas de Grupo/Conta, sendo possivel selecionar quais as contas que precisam serm acompanhadas mais de perto, principamente para aquelas despesas descontroladas
-![SCREENSHOT](/Imagens/Acompanhamento_2.png) 
-
-### Resumo:
-#### Local onde é inserido os valores dos patrimonios obtidos até o momento
-![SCREENSHOT](/Imagens/RESUMO.png) 
