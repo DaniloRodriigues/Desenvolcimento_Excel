@@ -40,7 +40,7 @@
 ## 5. Apresentação da Estrutura
 
 - ## ESTATISTICAS
-### Onde é possivel visualizar a estatistica da Unidade de Negocio selecionada, como por exempo, nº de colaboradores, Pac/Dia, Exames, % Ocupação, dentro outros:
+### Onde é possivel visualizar a estatistica da Unidade de Negócio selecionada, como por exempo, nº de colaboradores, Pac/Dia, Exames, % Ocupação, dentro outros:
 ![SCREENSHOT](/Imagens/DRE_Estatisticas.png)  
 
 - ## RECEITA
